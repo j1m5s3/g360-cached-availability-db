@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# tmp log files
+log.txt
+
+# csv files
+*.csv
