@@ -133,3 +133,10 @@ log.txt
 
 # csv files
 *.csv
+
+# Notes
+NOTES.txt
+
+# Test data
+data/
+
